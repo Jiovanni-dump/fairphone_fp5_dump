@@ -1,0 +1,14 @@
+# qssi-user 14 UKQ1.230924.001 UT2M release-keys
+- manufacturer: fairphone
+- platform: lahaina
+- codename: FP5
+- flavor: qssi-user
+- release: 14
+- id: UKQ1.230924.001
+- incremental: UT2M
+- tags: release-keys
+- fingerprint: Fairphone/FP5/FP5:11/RKQ1.230824.001/UT2M:user/release-keys
+- is_ab: true
+- brand: Fairphone
+- branch: qssi-user-14-UKQ1.230924.001-UT2M-release-keys
+- repo: fairphone_fp5_dump
