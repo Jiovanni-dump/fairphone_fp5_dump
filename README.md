@@ -1,0 +1,14 @@
+# qssi-user 15 AQ3A.240912.001 VT28 release-keys
+- manufacturer: fairphone
+- platform: lahaina
+- codename: FP5
+- flavor: qssi-user
+- release: 15
+- id: AQ3A.240912.001
+- incremental: VT28
+- tags: release-keys
+- fingerprint: Fairphone/FP5/FP5:15/AQ3A.240912.001/VT28:user/release-keys
+- is_ab: true
+- brand: Fairphone
+- branch: qssi-user-15-AQ3A.240912.001-VT28-release-keys
+- repo: fairphone_fp5_dump
